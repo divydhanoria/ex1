@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+<head>
+<title>My Page</title>
+</head>
+<body>
+
+<h1>Hello!</h1>
+
+<p>This is my first website.</p>
+
+<p>I am typing this in a text editor to see if it works.</p>
+
+</body>
+</html>
